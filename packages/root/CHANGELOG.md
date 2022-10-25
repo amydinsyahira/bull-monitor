@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.1-alpha](https://github.com/amydinsyahira/bull-monitor/compare/v5.0.1...v5.0.1-alpha) (2022-10-25)
+
+
+### Features
+
+* **root:** apollo server cache configuration option ([6e26e08](https://github.com/amydinsyahira/bull-monitor/commit/6e26e088a9f540bd7f055ae39ed20cbb126952a1))
+
+
+
 ## [5.0.1](https://github.com/s-r-x/bull-monitor/compare/v5.0.0...v5.0.1) (2022-05-11)
 
 

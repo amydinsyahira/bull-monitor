@@ -1,7 +1,7 @@
 const pkg = require('../package.json');
 
 export class UI {
-  private uiVersion = pkg.version;
+  private uiVersion = pkg.version.replace('5.0.1-alpha', '5.0.1');
   private pkgName = '@bull-monitor/ui';
   private cdnRoot = `https://cdn.jsdelivr.net/npm/${this.pkgName}@${this.uiVersion}`;
   private resourcesRoot = this.cdnRoot + '/build';
